@@ -9,12 +9,6 @@ body{
     background: #BDBDBD;
 }
 
-.container{
-    width: 100vw;
-    height: 100vh;
-    padding: 0;
-    margin: 0;
-}
 
 .navbar{
     background-color: black;
@@ -86,3 +80,27 @@ a{
     
 
 }
+.ww {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+.imgtag{
+    background-image: url("./../img/bg.jpg");
+    background-size:cover;
+    background-origin:content-box;
+    height:100%;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.secondfr {
+    color: gray;
+}
+.h3 {
+    color: gray;
+}
+.text1 {
+    margin: 20px;
+}
+
