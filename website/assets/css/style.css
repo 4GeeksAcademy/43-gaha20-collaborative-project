@@ -9,7 +9,6 @@ body{
     background: #BDBDBD;
 }
 
-
 .navbar{
     background-color: black;
     width: 100%;
@@ -45,41 +44,40 @@ a{
     height: 50vh;  
 
 }
-
-.tittles .tittle{
-    padding: 20px 10px;
+.titles .title{
+    padding: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 90px;
 }
 
-.tittles .sub_tittle{
-    padding: 20px 10px;
+.titles .sub_title{
+    padding: 0px 10px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 10px;
 }
 
-.tittles .tittle h1{
+.titles .title h1{
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
     background-color: rgba(220, 219, 219, 0.824) ;
-    margin-top: 160px;
+    margin-top: 40px;
+    font-size: 5rem;
 
 }
 
-.tittles .sub_tittle h2{
+.titles .sub_title h2{
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
     background-color: rgba(220, 219, 219, 0.824) ;
-    
-
+    font-size: 2.8rem;
 }
 .ww {
     border-radius: 50%;
